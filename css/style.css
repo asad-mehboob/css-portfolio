@@ -48,6 +48,7 @@ ul {
 .btn-container {
   display: flex;
   justify-content: center;
+  text-decoration: none;
 }
 
 .footer {
