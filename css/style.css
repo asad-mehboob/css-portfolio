@@ -43,8 +43,12 @@ ul {
 
 .button {
   border-style: none;
+}
+
+div a {
   text-decoration: none;
 }
+
 
 .btn-container {
   display: flex;
